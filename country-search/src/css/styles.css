@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Mukta;
+  font-size: 25px;
+  color: rgb(0, 11, 128);
+}
+.info-country {
+  margin: 0;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(0, 39, 93);
+  font-size: 35px;
+}
+
+.input-search {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  width: 300px;
+  border-color: tomato;
+}
+.country-name {
+  margin: 0;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 65px;
+  font-weight: 700px;
+  color: rgb(0, 39, 93);
+}
+
+.card-text {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.name-item {
+  font-weight: 700;
+  color: rgb(0, 39, 93);
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.country-info {
+  margin-right: 50px;
+}
+
+.country-list {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  display: block;
+  text-decoration: none;
+}
+.country-item {
+  margin-bottom: 10px;
+  list-style: none;
+  text-align: center;
+}
